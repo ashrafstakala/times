@@ -9,7 +9,7 @@ header {
     position: fixed;
     height: 80px;
     z-index: 1;
-    background-color: blue;
+    background-color: #7b0000;
   }
   header nav {
     padding-right: 40px;
